@@ -1,4 +1,4 @@
-# admitkart
+# admitkart Otp Assignment
 # Clone  repository
 git clone (https://github.com/Gaurav-9810/admitkart.git)
 
