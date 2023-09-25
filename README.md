@@ -30,13 +30,4 @@ npm start
 
 The React project should now be running, and you can access it in your web browser at http://localhost:3000/.
 
-Usage
-Describe how to use your project or any other relevant information.
 
-License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
-
-Acknowledgments
-Mention any libraries, frameworks, or tools used, and give credit to their creators if necessary.
-
-Please ensure that you have the correct MongoDB connection URL, Twilio account details, and any other necessary configurations for your project. Users who clone these repositories can follow these instructions to set up and run the project successfully.
